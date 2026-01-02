@@ -1,4 +1,4 @@
-Jamelih Nofal & Noor Aljuidy
+Jamelih Nofal & Nour Aljuidy
 1. Implemented Security Features:
     Server-Side:
         * Authentication: Clients must authenticate using a username/password (stored in users.txt) before accessing services.
@@ -40,4 +40,5 @@ Jamelih Nofal & Noor Aljuidy
 
 4. Known Limitations:
     a. User directories must be manually created on the server before use.
+
 
